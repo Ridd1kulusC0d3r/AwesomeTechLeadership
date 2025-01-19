@@ -49,8 +49,41 @@ Este repositório é dedicado a fornecer materiais ricos e diversificados para q
 ---
 
 ## 🧠 Psicologia Aplicada à Liderança
-- [The Psychology of Leadership - Podcast](https://www.psychologytoday.com/us/blog/psychology-leadership)
-- [Emotional Intelligence Framework - Daniel Goleman](https://www.danielgoleman.info/)
+
+### 📥 Recrutamento e Recursos Humanos
+- [Como Criar uma Experiência de Onboarding de Sucesso](https://blog.trello.com/)
+- [Técnicas de Recrutamento Eficazes](https://hbr.org/)
+- [OSINT para Recrutamento - LinkedIn Search Guide](https://recruitin.net/)
+
+### 🛠️ Modelos de Feedback
+- Exemplos práticos e templates para feedbacks eficazes.
+
+### 📈 Desenvolvimento de Sucessão
+- Estratégias para preparar futuros líderes dentro da organização.
+
+### 🌱 Desenvolvimento de Liderados
+- Ferramentas e metodologias para ajudar liderados a atingir seu potencial.
+
+### 🤝 Soft Skills
+- Recursos para desenvolver habilidades interpessoais, como empatia, resiliência e negociação.
+
+### 🛠️ Casos Práticos
+- Estudos reais de como líderes enfrentaram desafios e os superaram.
+
+### 📡 Comunicação Assertiva
+- Guias e treinamentos para melhorar a comunicação com a equipe.
+
+### 🔄 Desenvolvimento Contínuo e Planos de Carreira
+- Exemplos e ferramentas para criar planos de desenvolvimento individual.
+
+### 🔧 Business Partner em Tech
+- Como alinhar a liderança técnica com os objetivos estratégicos da empresa.
+
+### 🚀 Delegação Eficiente e Foco em Resultados
+- Técnicas para delegar tarefas com eficiência e garantir resultados.
+
+### 🌤️ Desenvolvimento de um Clima Organizacional Saudável
+- Estratégias para criar um ambiente de trabalho positivo e produtivo.
 
 ---
 
@@ -62,18 +95,20 @@ Este repositório é dedicado a fornecer materiais ricos e diversificados para q
 
 ---
 
-## 🧩 Recrutamento e Recursos Humanos
-- [Como Criar uma Experiência de Onboarding de Sucesso](https://blog.trello.com/)
-- [Técnicas de Recrutamento Eficazes](https://hbr.org/)
-- [OSINT para Recrutamento - LinkedIn Search Guide](https://recruitin.net/)
-
----
-
 ## 🌟 Boas Práticas
 - Comunicação aberta e clara com sua equipe.
 - Desenvolvimento contínuo: cursos, leituras, e feedback.
 - Delegação eficiente e foco em resultados.
 - Incentivo à diversidade e inclusão no time.
+
+---
+
+## 💡 Ideias para Expansão do Repositório
+- **Casos de Estudo**: Exemplos de liderança técnica aplicada no mundo real.
+- **Templates**: Modelos de reuniões, feedbacks e avaliações de desempenho.
+- **Ferramentas**: Sugestões de ferramentas para gestão de equipes, projetos e desenvolvimento pessoal.
+- **Seção de Comunidades**: Links para grupos no Discord, Slack, ou fóruns relacionados a liderança tech.
+- **Eventos**: Calendário de eventos e conferências para líderes técnicos.
 
 ---
 
@@ -96,15 +131,6 @@ Adicione badges ao seu repositório para torná-lo mais informativo e atrativo:
   ```markdown
   ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME)
   ```
-
----
-
-## 💡 Ideias para Expansão do Repositório
-- **Casos de Estudo**: Exemplos de liderança técnica aplicada no mundo real.
-- **Templates**: Modelos de reuniões, feedbacks e avaliações de desempenho.
-- **Ferramentas**: Sugestões de ferramentas para gestão de equipes, projetos e desenvolvimento pessoal.
-- **Seção de Comunidades**: Links para grupos no Discord, Slack, ou fóruns relacionados a liderança tech.
-- **Eventos**: Calendário de eventos e conferências para líderes técnicos.
 
 ---
 
