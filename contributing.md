@@ -2,7 +2,8 @@
 
 Obrigado por se interessar em contribuir para este projeto! 🎉 Este guia foi criado para garantir que todas as contribuições sejam claras, organizadas e alinhadas aos objetivos do repositório. 
 
-Ao participar deste projeto, você concorda com os termos do nosso Código de Conduta:https://github.com/Ridd1kulusC0d3r/AwesomeTechLeadership/blob/main/code-of-conduct.md Por favor, leia-o atentamente antes de continuar.
+Ao contribuir para este projeto, você concorda com os termos descritos em nosso [Código de Conduta](https://github.com/Ridd1kulusC0d3r/AwesomeTechLeadership/blob/main/code-of-conduct.md). Pedimos que você leia-o atentamente para garantir uma participação respeitosa e alinhada aos valores da comunidade.
+
 
 ---
 
