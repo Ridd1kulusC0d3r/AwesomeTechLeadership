@@ -1,4 +1,4 @@
-# Awesome Tech Leadership [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME) 
+# Awesome Tech Leadership ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME) 
 # Awesome Tech Leadership 🌟
 
 > Uma lista curada de recursos para líderes técnicos e aspirantes a liderança no mundo da tecnologia. Aqui você encontrará livros, vídeos, cursos, e ferramentas essenciais para desenvolver habilidades técnicas e humanas necessárias para liderar equipes de alto desempenho.
