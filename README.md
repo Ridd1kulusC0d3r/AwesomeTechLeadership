@@ -8,7 +8,7 @@
 ## 📜 Descrição
 
 Este repositório é dedicado a fornecer materiais ricos e diversificados para quem deseja evoluir como líder técnico. Os recursos estão organizados em categorias para facilitar a navegação e a descoberta.
-
+ref: https://staffeng.com/book?utm_source=tldrsec.com&utm_medium=referral&utm_campaign=staff-security-engineer-guide
 ---
 
 ## 📚 Livros
